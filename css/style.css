@@ -1,0 +1,42 @@
+:root {
+  /* Colors */
+  --primary-color: hsl(0, 0%, 12%);
+  --secondary-color: hsl(0, 0%, 20%);
+  --tertiary-color: hsl(75, 94%, 57%);
+  --background-color: hsl(0, 0%, 8%);
+  --text-color: hsl(0, 0%, 100%);
+}
+
+/* Font presets */
+@font-face {
+  font-family: 'Inter';
+  src: url('../assets/fonts/Inter-VariableFont_slnt\,wght.ttf')
+    format('truetype');
+  font-style: normal;
+  font-optical-sizing: auto;
+}
+
+.inter-regular {
+  font-family: 'Inter', serif;
+  font-weight: 400;
+  line-height: 150%;
+  letter-spacing: 0;
+}
+
+.inter-semi-bold {
+  font-family: 'Inter', serif;
+  font-weight: 600;
+  line-height: 150%;
+  letter-spacing: 0;
+}
+
+.inter-bold {
+  font-family: 'Inter', serif;
+  font-weight: 700;
+  line-height: 150%;
+  letter-spacing: 0;
+}
+
+body {
+  background-color: var(--background-color);
+}

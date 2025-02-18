@@ -5,7 +5,6 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 ## Table of contents
 
 - [Frontend Mentor - Social links profile solution](#frontend-mentor---social-links-profile-solution)
-  - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [The challenge](#the-challenge)
     - [Screenshot](#screenshot)
@@ -30,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
-- [Live Site URL](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/responsive-social-links-profile-using-css-functions-ipo8qqe54I)
+- [Live Site URL](https://jdrodriguez2707.github.io/social-links-profile/)
 
 ## My process
 

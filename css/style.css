@@ -100,9 +100,14 @@ body {
   gap: 16px;
   margin-top: 24px;
   list-style: none;
+
+  li {
+    width: 100%;
+  }
 }
 
 .social-media-button {
+  display: block;
   padding: 12px 0;
   border-radius: 8px;
   text-align: center;
